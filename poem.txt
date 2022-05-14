@@ -3,7 +3,4 @@ pink
 purple
 Orange
 blue
-Yellow
-Reddish
-Whitish
 that's it.
